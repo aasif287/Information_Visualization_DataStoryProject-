@@ -12,7 +12,7 @@ The primary objectives of this project are as follows:
 
 2. **Data Sources:** Utilize The New York Times API to aggregate historical data on the most popular searches for each month in the United States.
 
-3. **Visualization Strategy:** Develop a strategy for visualizing the data effectively, employing charts, graphs, heatmaps, and geographical maps in an interactive dashboard.
+3. **Visualization Strategy:** Develop a strategy for visualizing the data effectively, employing charts, graphs, heatmaps, and geographical maps in an interactive dashboard using Tableau.
 
 4. **Insight Generation:** Describe the data analysis approach and highlight the key insights gained from the exploration.
 
@@ -37,5 +37,9 @@ Describe the group's approach to analyzing the data, including any challenges fa
 ### Website Link
 
 To access the interactive Data Story and visualizations, please visit [https://sites.google.com/view/new-york-times-visual/links?authuser=0].
+
+### Tableau File
+
+The created information visuals are available in the DataStory Project Tableau Workbook in the repository. 
 
 
